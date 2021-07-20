@@ -1,0 +1,6 @@
+1. After installing VirtualBox Guest Additions (https://www.youtube.com/watch?v=O-_BVl1lpuc), There is one more step to be done
+2. Ubuntu's display resolution also needs to be changes. Go to Ubuntu OS' Settings-->Display-->Resolution, change to a higher resolution.
+
+
+References:
+https://www.youtube.com/watch?v=O-_BVl1lpuc 
